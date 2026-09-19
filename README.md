@@ -1,3 +1,5 @@
+                                    Production-Grade RAG Chatbot Engine using n8n, OpenAI & Pinecone
+
 📌 Project Overview
 This project implements a complete end-to-end RAG ecosystem divided into two core pipelines:
 
@@ -40,6 +42,8 @@ The RAG agent successfully fetches context from Pinecone and synthesizes structu
 <img width="505" height="680" alt="image" src="https://github.com/user-attachments/assets/2cfbae47-0cf9-4d12-a23e-c6ec0f88cbff" />
 
 <img width="509" height="686" alt="image" src="https://github.com/user-attachments/assets/45a02c5c-582f-47c0-ba38-d21ea4b0a9af" />
+
+
 
 
 
